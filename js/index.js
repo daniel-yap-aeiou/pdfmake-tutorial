@@ -61,7 +61,7 @@ var dd = {
 	}
 	
 }
-
+console.log(pdfMake);
 const pdfDocGenerator = pdfMake.createPdf(dd).download();
 console.log(pdfDocGenerator);
 
