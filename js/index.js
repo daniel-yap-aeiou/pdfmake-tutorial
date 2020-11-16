@@ -6,8 +6,8 @@ var fonts = {
 		bolditalics: 'fonts/Roboto-Regular.ttf'
 	},
 	PingFangSC: {
-     normal: ['fonts/PingFang.ttc', 'PingFangSC-Regular'],
-	 bold: ['fonts/PingFang-SC-Semibold.ttf', 'PingFangSC-Bold']
+     normal: 'fonts/PingFang.ttc',
+	 bold: 'fonts/PingFang-SC-Semibold.ttf',
    }
 };
 
@@ -57,7 +57,7 @@ var dd = {
 	},
 	defaultStyle: {
 		// alignment: 'justify'
-		font: 'PingFangSC'
+		//font: 'PingFangSC'
 	}
 	
 }
